@@ -5,5 +5,5 @@
 - **Jennifer Nguyen** [Jenblr](https://github.com/Jenblr)
 - **Adefemi Abimbola** [Asabimbo](https://github.com/Asabimbo)
 - **Ali Muhammad Lalani** [?](https://github.com/)
-- **Farzam Afzal** [Sofiapyrrhicologyd98](https://github.com/pyrrhicology)
+- **Farzam Afzal** [pyrrhicology](https://github.com/pyrrhicology)
 ---
